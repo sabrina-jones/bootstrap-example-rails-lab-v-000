@@ -70,3 +70,6 @@ Started GET "/" for 127.0.0.1 at 2018-01-12 21:16:45 +0000
 Processing by HomeController#index as HTML
   Rendered home/index.html.erb within layouts/application (0.0ms)
 Completed 200 OK in 2ms (Views: 1.4ms)
+Started GET "/" for 127.0.0.1 at 2018-01-12 21:18:54 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.8ms)
